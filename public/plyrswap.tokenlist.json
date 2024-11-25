@@ -1,0 +1,49 @@
+{
+    "name": "WANSWAP",
+    "logoURI": "https://tokenlist.onplyr.com/plyr_logo.png",
+    "keywords": [
+        "defi",
+        "wanswap",
+        "yield"
+    ],
+    "timestamp": "2024-11-25T03:06:00.305Z",
+    "tokens": [
+        {
+            "chainId": 16180,
+            "address": "0xAAAaBe49A72EcF0804292CE8e889016d9D05767c",
+            "name": "WPLYR",
+            "symbol": "WPLYR",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/16180/WPLYR.png"
+        },
+        {
+            "chainId": 16180,
+            "address": "0x413F1a8F0A2Bd9b6D31B2CA91c4aa7bC08266731",
+            "name": "GAMR",
+            "symbol": "GAMR",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/16180/GAMR.png"
+        },
+        {
+            "chainId": 62831,
+            "address": "0xAAAaBe49A72EcF0804292CE8e889016d9D05767c",
+            "name": "WPLYR",
+            "symbol": "WPLYR",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/WPLYR.png"
+        },
+        {
+            "chainId": 62831,
+            "address": "0xa875625fe8A955406523E52E485f351b92908ce1",
+            "name": "GAMR",
+            "symbol": "GAMR",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/GAMR.png"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
