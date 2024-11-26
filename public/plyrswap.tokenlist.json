@@ -1,6 +1,6 @@
 {
     "name": "PLYR[SWAP]",
-    "logoURI": "https://tokenlist.onplyr.com/plyr_logo.png",
+    "logoURI": "https://tokenlist.onplyr.com/plyrswap.jpg",
     "keywords": [
         "defi",
         "wanswap",
@@ -46,7 +46,7 @@
             "name": "DUMMY",
             "symbol": "DUMMY",
             "decimals": 18,
-            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/GAMR.png"
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/DUMMY.png"
         }
     ],
 
@@ -54,6 +54,6 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
