@@ -6,7 +6,7 @@
         "wanswap",
         "yield"
     ],
-    "timestamp": "2024-11-25T15:41:20Z",
+    "timestamp": "2024-12-10T16:18:00Z",
     "tokens": [
         {
             "chainId": 16180,
@@ -47,6 +47,22 @@
             "symbol": "DUMMY",
             "decimals": 18,
             "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/DUMMY.png"
+        },
+        {
+            "chainId": 62831,
+            "address": "0x9b7ecaBE00D41eF37434975db8Fb7323dd596F1c",
+            "name": "COQ",
+            "symbol": "COQ",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/COQ.png"
+        },
+        {
+            "chainId": 62831,
+            "address": "0xa79F25CBfe32f5f29F4Ca96aAe67acD49D65655f",
+            "name": "SUPER",
+            "symbol": "SUPER",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/SUPER.png"
         }
     ],
 
@@ -54,6 +70,6 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 2
+        "patch": 3
     }
 }
