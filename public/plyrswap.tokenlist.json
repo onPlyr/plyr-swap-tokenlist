@@ -58,6 +58,14 @@
         },
         {
             "chainId": 62831,
+            "address": "0x008058f98b3351C72ea0C5f471E1bAe268f31c41",
+            "name": "AVAX",
+            "symbol": "AVAX",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/AVAX.png"
+        },
+        {
+            "chainId": 62831,
             "address": "0xa79F25CBfe32f5f29F4Ca96aAe67acD49D65655f",
             "name": "SUPER",
             "symbol": "SUPER",
