@@ -6,7 +6,7 @@
         "wanswap",
         "yield"
     ],
-    "timestamp": "2024-12-10T16:18:00Z",
+    "timestamp": "2024-12-25T16:00:00Z",
     "tokens": [
         {
             "chainId": 16180,
@@ -71,6 +71,14 @@
             "symbol": "SUPER",
             "decimals": 18,
             "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/SUPER.png"
+        },
+        {
+            "chainId": 62831,
+            "address": "0xA69E8C5aFC0A4633d3d84d6C360998354c4C692C",
+            "name": "tUSDC",
+            "symbol": "tUSDC",
+            "decimals": 18,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/62831/tUSDC.png"
         }
     ],
 
@@ -78,6 +86,6 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 3
+        "patch": 4
     }
 }
