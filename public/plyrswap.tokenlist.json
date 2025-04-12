@@ -6,7 +6,7 @@
         "wanswap",
         "yield"
     ],
-    "timestamp": "2024-12-25T16:00:00Z",
+    "timestamp": "2025-04-12T16:00:00Z",
     "tokens": [
         {
             "chainId": 16180,
@@ -23,6 +23,14 @@
             "symbol": "GAMR",
             "decimals": 18,
             "logoURI": "https://tokenlist.onplyr.com/token_icons/16180/GAMR.png"
+        },
+        {
+            "chainId": 16180,
+            "address": "0x63F551298862f306B689724519D95eDA3dCDE5b8",
+            "name": "USDC[PLYR]",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://tokenlist.onplyr.com/token_icons/16180/USDC.png"
         },
         {
             "chainId": 62831,
@@ -86,6 +94,6 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 4
+        "patch": 5
     }
 }
